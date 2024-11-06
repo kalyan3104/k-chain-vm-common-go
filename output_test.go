@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/DharitriOne/drt-chain-core-go/data/vm"
+	"github.com/kalyan3104/k-chain-core-go/data/vm"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

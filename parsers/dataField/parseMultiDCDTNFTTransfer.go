@@ -1,8 +1,8 @@
 package datafield
 
 import (
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	"github.com/DharitriOne/drt-chain-core-go/core/sharding"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core/sharding"
 )
 
 func (odp *operationDataFieldParser) parseMultiDCDTNFTTransfer(args [][]byte, function string, sender, receiver []byte, numOfShards uint32) *ResponseParseData {

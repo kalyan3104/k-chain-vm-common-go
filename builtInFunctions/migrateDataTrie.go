@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	"github.com/DharitriOne/drt-chain-core-go/core/check"
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
-	"github.com/DharitriOne/drt-chain-vm-common-go/dataTrieMigrator"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core/check"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
+	"github.com/kalyan3104/k-chain-vm-common-go/dataTrieMigrator"
 )
 
 type migrateDataTrie struct {

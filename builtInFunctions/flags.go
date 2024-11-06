@@ -1,6 +1,6 @@
 package builtInFunctions
 
-import "github.com/DharitriOne/drt-chain-core-go/core"
+import "github.com/kalyan3104/k-chain-core-go/core"
 
 // Enable epoch flags definitions
 const (
@@ -28,7 +28,7 @@ const (
 	MigrateDataTrieFlag                         core.EnableEpochFlag = "MigrateDataTrieFlag"
 )
 
-// allFlags must have all flags used by drt-chain-vm-common-go in the current version
+// allFlags must have all flags used by k-chain-vm-common-go in the current version
 var allFlags = []core.EnableEpochFlag{
 	GlobalMintBurnFlag,
 	DCDTTransferRoleFlag,

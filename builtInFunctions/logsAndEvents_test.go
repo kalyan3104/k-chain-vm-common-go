@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 	"github.com/stretchr/testify/require"
 )
 

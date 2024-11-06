@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/core/check"
-	"github.com/DharitriOne/drt-chain-core-go/data/vm"
+	"github.com/kalyan3104/k-chain-core-go/core/check"
+	"github.com/kalyan3104/k-chain-core-go/data/vm"
 )
 
 // StorageUpdate represents a change in the account storage (insert, update or delete)

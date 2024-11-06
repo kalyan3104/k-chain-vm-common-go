@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	"github.com/DharitriOne/drt-chain-core-go/core/check"
-	"github.com/DharitriOne/drt-chain-core-go/data/dcdt"
-	"github.com/DharitriOne/drt-chain-core-go/marshal"
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core/check"
+	"github.com/kalyan3104/k-chain-core-go/data/dcdt"
+	"github.com/kalyan3104/k-chain-core-go/marshal"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 )
 
 const transfer = "transfer"

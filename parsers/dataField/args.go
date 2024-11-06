@@ -1,7 +1,7 @@
 package datafield
 
 import (
-	"github.com/DharitriOne/drt-chain-core-go/marshal"
+	"github.com/kalyan3104/k-chain-core-go/marshal"
 )
 
 // ArgsOperationDataFieldParser holds all the components required to create a new instance of data field parser

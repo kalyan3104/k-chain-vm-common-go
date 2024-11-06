@@ -1,2 +1,2 @@
-# drt-chain-vm-common-go
+# k-chain-vm-common-go
 Common structs between VM and node

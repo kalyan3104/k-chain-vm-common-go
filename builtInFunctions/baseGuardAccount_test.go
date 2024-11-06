@@ -3,7 +3,7 @@ package builtInFunctions
 import (
 	"testing"
 
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 	"github.com/stretchr/testify/require"
 )
 

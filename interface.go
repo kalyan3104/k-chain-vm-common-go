@@ -3,10 +3,10 @@ package vmcommon
 import (
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	"github.com/DharitriOne/drt-chain-core-go/core/closing"
-	"github.com/DharitriOne/drt-chain-core-go/data"
-	"github.com/DharitriOne/drt-chain-core-go/data/dcdt"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core/closing"
+	"github.com/kalyan3104/k-chain-core-go/data"
+	"github.com/kalyan3104/k-chain-core-go/data/dcdt"
 )
 
 // FunctionNames (alias) is a map of function names
@@ -115,7 +115,7 @@ type BlockchainHook interface {
 	IsInterfaceNil() bool
 }
 
-// VMExecutionHandler interface for any DharitriOne VM endpoint
+// VMExecutionHandler interface for any kalyan VM endpoint
 type VMExecutionHandler interface {
 	closing.Closer
 

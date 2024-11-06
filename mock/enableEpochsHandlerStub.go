@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/DharitriOne/drt-chain-core-go/core"
+import "github.com/kalyan3104/k-chain-core-go/core"
 
 // EnableEpochsHandlerStub -
 type EnableEpochsHandlerStub struct {

@@ -1,7 +1,7 @@
 package dataTrieMigrator
 
 import (
-	"github.com/DharitriOne/drt-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core"
 )
 
 // ArgsNewDataTrieMigrator is the arguments structure for the new dataTrieMigrator component

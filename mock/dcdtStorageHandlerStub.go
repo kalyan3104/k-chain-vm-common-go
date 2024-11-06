@@ -3,9 +3,9 @@ package mock
 import (
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/data"
-	"github.com/DharitriOne/drt-chain-core-go/data/dcdt"
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+	"github.com/kalyan3104/k-chain-core-go/data"
+	"github.com/kalyan3104/k-chain-core-go/data/dcdt"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 )
 
 // DCDTNFTStorageHandlerStub -

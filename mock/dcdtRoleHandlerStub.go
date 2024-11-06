@@ -1,6 +1,6 @@
 package mock
 
-import vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+import vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 
 // DCDTRoleHandlerStub -
 type DCDTRoleHandlerStub struct {

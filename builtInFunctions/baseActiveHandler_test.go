@@ -3,7 +3,7 @@ package builtInFunctions
 import (
 	"testing"
 
-	"github.com/DharitriOne/drt-chain-core-go/core/check"
+	"github.com/kalyan3104/k-chain-core-go/core/check"
 	"github.com/stretchr/testify/assert"
 )
 

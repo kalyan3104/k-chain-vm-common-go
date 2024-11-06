@@ -1,7 +1,7 @@
 package parsers
 
 import (
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 )
 
 type deployArgsParser struct {

@@ -5,10 +5,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	"github.com/DharitriOne/drt-chain-core-go/data/vm"
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
-	"github.com/DharitriOne/drt-chain-vm-common-go/mock"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/data/vm"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
+	"github.com/kalyan3104/k-chain-vm-common-go/mock"
 	"github.com/stretchr/testify/assert"
 )
 

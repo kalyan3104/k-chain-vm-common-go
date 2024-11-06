@@ -3,7 +3,7 @@ package vmcommon
 import (
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/data/vm"
+	"github.com/kalyan3104/k-chain-core-go/data/vm"
 )
 
 // VMInput contains the common fields between the 2 types of SC call.

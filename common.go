@@ -3,7 +3,7 @@ package vmcommon
 import (
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core"
 )
 
 const tickerMinLength = 3

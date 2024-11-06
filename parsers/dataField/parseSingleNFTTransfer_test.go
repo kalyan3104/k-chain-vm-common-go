@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/DharitriOne/drt-chain-core-go/core/pubkeyConverter"
+	"github.com/kalyan3104/k-chain-core-go/core/pubkeyConverter"
 	"github.com/stretchr/testify/require"
 )
 

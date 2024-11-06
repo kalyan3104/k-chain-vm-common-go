@@ -3,7 +3,7 @@ package vmcommon
 import (
 	"bytes"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core"
 )
 
 // SystemAccountAddress is the hard-coded address in which we save global settings on all shards

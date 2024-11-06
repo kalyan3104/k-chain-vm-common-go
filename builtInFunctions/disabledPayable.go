@@ -1,6 +1,6 @@
 package builtInFunctions
 
-import vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+import vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 
 // disabledPayableHandler is a disabled payableCheck handler that implements PayableChecker interface but it is disabled
 type disabledPayableHandler struct {

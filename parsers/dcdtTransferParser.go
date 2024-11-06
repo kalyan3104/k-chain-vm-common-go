@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/DharitriOne/drt-chain-core-go/core"
-	"github.com/DharitriOne/drt-chain-core-go/core/check"
-	"github.com/DharitriOne/drt-chain-core-go/data/dcdt"
-	vmcommon "github.com/DharitriOne/drt-chain-vm-common-go"
+	"github.com/kalyan3104/k-chain-core-go/core"
+	"github.com/kalyan3104/k-chain-core-go/core/check"
+	"github.com/kalyan3104/k-chain-core-go/data/dcdt"
+	vmcommon "github.com/kalyan3104/k-chain-vm-common-go"
 )
 
 // MinArgsForDCDTTransfer defines the minimum arguments needed for an dcdt transfer
